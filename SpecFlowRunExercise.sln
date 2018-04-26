@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowRunExercise", "SpecFlowRunExercise\SpecFlowRunExercise.csproj", "{4B3C4C5D-733F-46FE-BCCE-4D97DAD7FC3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowRunExerciseTests", "SpecFlowRunExerciseTests\SpecFlowRunExerciseTests.csproj", "{4E44BAA0-E702-4BDE-87B6-C3334CF2BA83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B3C4C5D-733F-46FE-BCCE-4D97DAD7FC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3C4C5D-733F-46FE-BCCE-4D97DAD7FC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3C4C5D-733F-46FE-BCCE-4D97DAD7FC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3C4C5D-733F-46FE-BCCE-4D97DAD7FC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E44BAA0-E702-4BDE-87B6-C3334CF2BA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E44BAA0-E702-4BDE-87B6-C3334CF2BA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E44BAA0-E702-4BDE-87B6-C3334CF2BA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E44BAA0-E702-4BDE-87B6-C3334CF2BA83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39B146FC-4EEF-43EC-88ED-0204CCB0D091}
+	EndGlobalSection
+EndGlobal
